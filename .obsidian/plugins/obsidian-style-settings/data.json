@@ -1,0 +1,20 @@
+{
+  "Components@@tab-autohide": false,
+  "Components@@folder-font-bold": true,
+  "Components@@file-icon-remove": false,
+  "Components@@colorful-folder": false,
+  "Components@@outline-enhanced": false,
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-light@@theme-light-style-select": "theme-light-background-default",
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Editor@@border-focus-mode": false,
+  "Editor@@line-hover-indicator": true,
+  "Mobile@@card-layout-pad-open": true,
+  "minimal-style@@callouts-style": "callouts-default",
+  "minimal-advanced@@hide-markdown": false,
+  "minimal-advanced@@styled-scrollbars": false,
+  "minimal-style@@bold-color@@dark": "#64C1EE",
+  "minimal-style@@italic-color@@dark": "#90FAB0",
+  "minimal-style@@h1-l": true,
+  "minimal-style@@h2-l": true
+}
