@@ -25,7 +25,7 @@ creation-date: 2024-07-14 22:42
 >9. Interpret the **shape of the yield curve as an economic preditor** and discuss the relationship between the yield curve and fiscal and monetary policy.
 >10. Identify and interpret **macroeconomic**, **interest rate**, and **exchange rate linkages** between economies.
 
->[!recap]- Brief recap...
+>[!recap]- Brief Recap...
 >- Capital market expectations involve setting likely **risk** and **return** parameters for a portfolio.
 >	- **Macro expectations** concern asset allocation.
 >	- **Micro expectations** determine security selection.

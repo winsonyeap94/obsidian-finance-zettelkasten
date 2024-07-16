@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f49783d2ff72668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Zettelkasten/CFA - Forecasting Asset Class Returns.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Zettelkasten/CFA - Framework and Macro Considerations.md",
+                "file": "000 Zettelkasten/CFA - Forecasting Asset Class Returns.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -122,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f6688753e37adf4b",
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Zettelkasten/CFA - Framework and Macro Considerations.md",
+                "file": "000 Zettelkasten/CFA - Forecasting Asset Class Returns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Zettelkasten/CFA - Framework and Macro Considerations.md",
+                "file": "000 Zettelkasten/CFA - Forecasting Asset Class Returns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Zettelkasten/CFA - Framework and Macro Considerations.md"
+                "file": "000 Zettelkasten/CFA - Forecasting Asset Class Returns.md"
               }
             }
           }
@@ -190,16 +203,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f78e37ff7529b0db",
+  "active": "1f49783d2ff72668",
   "lastOpenFiles": [
+    "Files/Pasted image 20240716230827.png",
+    "Files/Pasted image 20240716204755.png",
+    "Files/Pasted image 20240716204600.png",
+    "Files/Pasted image 20240716204517.png",
+    "Files/Pasted image 20240716203636.png",
+    "000 Zettelkasten/CFA - Framework and Macro Considerations.md",
+    "000 Zettelkasten/CFA - Forecasting Asset Class Returns.md",
     "Files/Pasted image 20240715230233.png",
     "Files/Pasted image 20240715225919.png",
     "Files/Pasted image 20240715224843.png",
     "Files/Pasted image 20240715224842.png",
-    "000 Zettelkasten/CFA - Framework and Macro Considerations.md",
     "Files/Pasted image 20240715223100.png",
     "Files/Pasted image 20240715214724.png",
-    "Files/Pasted image 20240715212247.png",
     "999 Reference Notes/CFA Programme - Level 3 (AnalystPrep).md",
     "Templates/Core Zettel Idea.md",
     "Templates",
@@ -210,10 +228,6 @@
     "999 Reference Notes/CS224W - Machine Learning with Graphs.md",
     "Stanford CS224W - Machine Learning with Graphs.canvas",
     "000 Zettelkasten/Graph Convolutional Policy Network (GCPN).md",
-    "Files/Pasted image 20240711220820.png",
-    "Files/Pasted image 20240711220601.png",
-    "Files/Pasted image 20240711220547.png",
-    "Files/Pasted image 20240711220546.png",
     "000 Zettelkasten/GraphRNN.md",
     "000 Zettelkasten/GNNs for Recommender Systems.md",
     "000 Zettelkasten/PinSAGE.md",
@@ -232,7 +246,6 @@
     "000 Zettelkasten/TransE (Translating Embeddings for Modelling Multi-relational Data).md",
     "000 Zettelkasten/TransR (Translation on Relation-specific Spaces).md",
     "000 Zettelkasten/Heterogenous Graphs.md",
-    "000 Zettelkasten/Relational Graph Convolutional Networks (RGCNs).md",
     "Templates",
     "Files",
     "999 Reference Notes",
