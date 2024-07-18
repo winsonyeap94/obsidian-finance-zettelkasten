@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "1f49783d2ff72668",
+            "id": "c696eb5ef0b4f09c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f6688753e37adf4b",
@@ -203,21 +204,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1f49783d2ff72668",
+  "active": "c696eb5ef0b4f09c",
   "lastOpenFiles": [
+    "Files/Pasted image 20240718224512.png",
+    "Files/Pasted image 20240718223538.png",
+    "Files/Pasted image 20240718222704.png",
+    "000 Zettelkasten/CFA - Framework and Macro Considerations.md",
+    "000 Zettelkasten/CFA - Forecasting Asset Class Returns.md",
+    "Files/Pasted image 20240718221650.png",
+    "Files/Pasted image 20240718213719.png",
     "Files/Pasted image 20240716230827.png",
     "Files/Pasted image 20240716204755.png",
     "Files/Pasted image 20240716204600.png",
     "Files/Pasted image 20240716204517.png",
     "Files/Pasted image 20240716203636.png",
-    "000 Zettelkasten/CFA - Framework and Macro Considerations.md",
-    "000 Zettelkasten/CFA - Forecasting Asset Class Returns.md",
     "Files/Pasted image 20240715230233.png",
-    "Files/Pasted image 20240715225919.png",
-    "Files/Pasted image 20240715224843.png",
-    "Files/Pasted image 20240715224842.png",
-    "Files/Pasted image 20240715223100.png",
-    "Files/Pasted image 20240715214724.png",
     "999 Reference Notes/CFA Programme - Level 3 (AnalystPrep).md",
     "Templates/Core Zettel Idea.md",
     "Templates",
