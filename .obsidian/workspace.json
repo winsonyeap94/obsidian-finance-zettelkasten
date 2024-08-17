@@ -11,8 +11,13 @@
             "id": "f306e1b8bb62be78",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "999 Reference Notes/Breaking into Banking - Cracking the Code on Launching a Successful Career in Commercial Banking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -84,6 +89,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "999 Reference Notes/Breaking into Banking - Cracking the Code on Launching a Successful Career in Commercial Banking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "999 Reference Notes/Breaking into Banking - Cracking the Code on Launching a Successful Career in Commercial Banking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "999 Reference Notes/Breaking into Banking - Cracking the Code on Launching a Successful Career in Commercial Banking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "999 Reference Notes/Breaking into Banking - Cracking the Code on Launching a Successful Career in Commercial Banking.md"
+              }
             }
           }
         ],
@@ -181,6 +191,18 @@
   },
   "active": "f306e1b8bb62be78",
   "lastOpenFiles": [
+    "000 Zettelkasten/Fixed Charge Coverage Ratio (FCCR).md",
+    "999 Reference Notes/Breaking into Banking - Cracking the Code on Launching a Successful Career in Commercial Banking.md",
+    "000 Zettelkasten/Fixed Charge Coverage (FCC) Ratio.md",
+    "000 Zettelkasten/Debt-Service Coverage Ratio (DSCR).md",
+    "000 Zettelkasten/Bridge Loans.md",
+    "000 Zettelkasten/Origination Fees.md",
+    "000 Zettelkasten/Risk Mitigation.md",
+    "000 Zettelkasten/Loan Pricing.md",
+    "000 Zettelkasten/Tenor & Amortisation.md",
+    "000 Zettelkasten/balloon payment.md",
+    "000 Zettelkasten/Facility Type.md",
+    "Files/Pasted image 20240817115845.png",
     "000 Zettelkasten/Peer-to-Peer (P2P).md",
     "000 Zettelkasten/Decentralised Applications (DApps).md",
     "Files/Pasted image 20240720203128.png",
@@ -198,7 +220,6 @@
     "Files/Pasted image 20240718221650.png",
     "Files/Pasted image 20240718213719.png",
     "Files/Pasted image 20240716230827.png",
-    "Files/Pasted image 20240716204755.png",
     "999 Reference Notes/CFA Programme - Level 3 (AnalystPrep).md",
     "Templates",
     "Files",
@@ -211,16 +232,6 @@
     "000 Zettelkasten/GraphRNN.md",
     "000 Zettelkasten/GNNs for Recommender Systems.md",
     "000 Zettelkasten/PinSAGE.md",
-    "000 Zettelkasten/LightGCN.md",
-    "000 Zettelkasten/Neural Graph Collaborative Filtering (NGCF).md",
-    "000 Zettelkasten/Graph Representation.md",
-    "000 Zettelkasten/Fast Neural Subgraph Matching and Counting.md",
-    "000 Zettelkasten/Knowledge Graphs.md",
-    "000 Zettelkasten/Reasoning Over Knowledge Graphs.md",
-    "000 Zettelkasten/Box Embeddings.md",
-    "000 Zettelkasten/Query2Box.md",
-    "000 Zettelkasten/Predictive Queries.md",
-    "000 Zettelkasten/Knowledge Graph Completion Tasks.md",
     "Templates",
     "Files",
     "999 Reference Notes",
